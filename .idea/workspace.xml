@@ -95,6 +95,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="shop.reducer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="shop.reducer.js" working-dir="$PROJECT_DIR$/src/redux/shop">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.shop.reducer.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -105,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568470160756</updated>
-      <workItem from="1568470163063" duration="9519000" />
+      <workItem from="1568470163063" duration="12099000" />
     </task>
     <servers />
   </component>
